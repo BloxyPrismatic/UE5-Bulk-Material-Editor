@@ -37,6 +37,7 @@ EmissiveColorMapWeight = "EmissiveColorMapWeight"
 AmbientColorMapWeightValue = 1.0
 AmbientOcclusionMapWeightValue = 1.0
 EmissiveColorMapWeightValue = 1.0
+# Tip: If The Material Is Too Bright Adjust The EmissiveColorMapWeightValue (e.g .05)
 
 #____Global_Texture_Parameter_Values____#
 # DEFAULT PARAMETERS : AmbientColorMap, AmbientOcclusionMap, EmissiveColorMap
